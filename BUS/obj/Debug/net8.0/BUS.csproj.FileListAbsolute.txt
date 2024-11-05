@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\bin\Debug\net8.0\BUS.deps.json
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\bin\Debug\net8.0\BUS.dll
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\bin\Debug\net8.0\BUS.pdb
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\BUS.dll
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\refint\BUS.dll
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\BUS.pdb
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\BUS\obj\Debug\net8.0\ref\BUS.dll

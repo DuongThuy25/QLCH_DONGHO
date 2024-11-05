@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1_QLCH_DongHo.FormNhanVien.resources
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1_QLCH_DongHo.FormSanPham.resources
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1_QLCH_DongHo.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1_QLCH_DongHo.Trangchu.resources
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1 QLCH DongHo.exe
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1 QLCH DongHo.pdb
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\bin\Debug\DA1 QLCH DongHo.exe.config
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\bin\Debug\DA1 QLCH DongHo.exe
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\bin\Debug\DA1 QLCH DongHo.pdb
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1_QLCH_DongHo.FormKhachHang.resources
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\DA1_QLCH_DongHo.FormNhaCC.resources
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\source\repos\DA1 QLCH DongHo\DA1 QLCH DongHo\obj\Debug\GUI.csproj.CopyComplete
