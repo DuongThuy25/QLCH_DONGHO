@@ -30,7 +30,7 @@ namespace DA1_QLCH_DongHo
         private void btnLamMoi_MouseDown(object sender, MouseEventArgs e)
         {
             Button button = (Button)sender;
-            button.BackColor = System.Drawing.Color.FromArgb(30, 128, 187);
+            button.BackColor = System.Drawing.Color.FromArgb(30, 128, 186);
         }
 
         private void btnLamMoi_MouseUp(object sender, MouseEventArgs e)
